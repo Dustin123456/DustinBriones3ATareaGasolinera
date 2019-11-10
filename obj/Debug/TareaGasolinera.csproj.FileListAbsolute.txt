@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\TareaGasolinera\TareaGasolinera\bin\Debug\TareaGasolinera.exe.config
+C:\Users\Usuario\source\repos\TareaGasolinera\TareaGasolinera\bin\Debug\TareaGasolinera.exe
+C:\Users\Usuario\source\repos\TareaGasolinera\TareaGasolinera\bin\Debug\TareaGasolinera.pdb
+C:\Users\Usuario\source\repos\TareaGasolinera\TareaGasolinera\obj\Debug\TareaGasolinera.exe
+C:\Users\Usuario\source\repos\TareaGasolinera\TareaGasolinera\obj\Debug\TareaGasolinera.pdb
+C:\Users\Usuario\source\repos\TareaGasolinera\TareaGasolinera\obj\Debug\TareaGasolinera.csprojAssemblyReference.cache
